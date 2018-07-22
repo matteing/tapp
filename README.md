@@ -4,7 +4,7 @@
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
 ## :arrow_up: How to Setup
-
+3e3
 **Step 1:** git clone this repo:
 
 **Step 2:** cd to the cloned repo:
