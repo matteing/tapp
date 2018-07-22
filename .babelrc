@@ -1,8 +1,1 @@
-{
-  "presets": ["react-native"],
-  "env": {
-    "production": {
-      "plugins": ["ignite-ignore-reactotron"]
-    }
-  }
-}
+go away lol
