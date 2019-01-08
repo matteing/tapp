@@ -4,7 +4,7 @@ import { Text, TouchableOpacity } from 'react-native'
 import styles from './Styles/DrawerButtonStyles'
 import ExamplesRegistry from '../Services/ExamplesRegistry'
 
-// Note that this file (App/Components/DrawerButto
+// Note that this file (App/Components/DrawerBu
 
 // Ignore in coverage report
 /* istanbul ignore next */
